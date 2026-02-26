@@ -108,7 +108,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Arindam**. I’m a Data Science student on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Arindam**. I’m a Data Science student on a mission to make working with data enjoyable and engaging!
 
 Let's connect and drive positive change together!
 
